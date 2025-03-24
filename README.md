@@ -45,18 +45,18 @@ I'm a passionate software developer who loves crafting interactive, responsive, 
 
 ---
 
-## 🌟 Highlight Projects
-
-- 🧠 **[AllergyAware](https://github.com/HasandiLavanya/AllergyAware)**  
-  *Food & drug allergy prediction using ML, OCR & NLP.*
+## 🌟 My Magical Creations ✨
 
 - 💅 **[NAILoon](https://github.com/HasandiLavanya/NAILoon)**  
-  *Nail shape & polish color recommender based on hand shape and skin tone.*
+  *Smart nail shape & polish color recommender 💖 — detects hand features + skin tone using ML.*
 
-- 🏙️ **[UrbanDev Platform](https://github.com/HasandiLavanya/UrbanDev-Platform)**  
-  *Crowdsourced urban development feedback system.*
+- 🎬 **[CaptionCrafter](https://github.com/HasandiLavanya/CaptionCrafter)**  
+  *Automatic caption generator for videos 🎥 — extracts audio & generates accurate subtitles.*
 
----
+- 📄 **[GoAML Report Generator](https://github.com/HasandiLavanya/GoAML-Report-Gen)**  
+  *Elegant UI-based system for generating goAML XML reports 📝 — no tech stress for compliance teams.*
+
+
 
 ## 📈 GitHub Stats
 
