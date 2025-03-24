@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Lavanya
+# Hey there ✨ I'm Lavanya Gunasekera
 
 🎓 Final Year CS Student | 💻 Full-Stack Web Dev | 🧠 ML Enthusiast | 🎨 UI Lover
 
